@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import me from '../../assets/me-about.jpg';
+import me from '../../assets/about me.jpg';
 import { FaAward, FaUsers, FaFolder } from 'react-icons/fa';
 
 const About = () => {
@@ -20,22 +20,22 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon"/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>Fresher</small>
             </article>
             <article className="about__card">
               <FaUsers className="about__icon"/>
               <h5>Clients</h5>
-              <small>200+ clients</small>
+              <small>N/A</small>
             </article>
             <article className="about__card">
               <FaFolder className="about__icon"/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small><link rel="stylesheet" href="https://github.com/Nick444-del" />Github</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident molestias repudiandae porro alias, totam tempore ex earum veritatis exercitationem. Repellat architecto sint obcaecati. Officiis, molestiae aspernatur? Eius deserunt laboriosam illo?
+          Hello! I'm a tech enthusiast with a Master's degree in Information Technology and a background in Computer Applications. My expertise spans data analysis, Android development, and frontend development. Passionate about leveraging technology to solve real-world challenges, I thrive in creating innovative solutions at the intersection of data and user experience. Let's connect and explore the exciting possibilities in the digital realm!
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>

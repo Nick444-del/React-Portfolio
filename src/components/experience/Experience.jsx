@@ -15,14 +15,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>HTML</h4>
+              <h4>HTML5</h4>
               <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>CSS</h4>
+              <h4>CSS3</h4>
               <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -50,7 +50,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>React</h4>
+              <h4>React-js</h4>
               <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -58,26 +58,26 @@ const Experience = () => {
         </div>
         {/* Backend */}
         <div className="experience__backend">
-        <h3>Backend Development</h3>
+        <h3>Data Analyst</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>Node JS</h4>
+              <h4>Python</h4>
               <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>MongoDB</h4>
+              <h4>Pandas</h4>
               <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
-              <h4>PHP</h4>
+              <h4>Numpy</h4>
               <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -85,12 +85,45 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icons" />
               <div>
               <h4>MySQL</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icons" />
-              <div><h4>Python</h4>
+              <div><h4>SpreadSheet</h4>
+              <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons"/>
+              <div>
+                <h4>MetplotLib</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+          </div>
+        </div>
+        <div className="experience__backend">
+        <h3>Android Developer</h3>
+          <div className="experience__content">
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+              <h4>Java</h4>
+              <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+              <h4>Kotlin</h4>
+              <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icons" />
+              <div>
+              <h4>Android Studio</h4>
               <small className="text-light">Intermediate</small>
               </div>
             </article>
