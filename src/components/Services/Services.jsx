@@ -11,25 +11,25 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Frontend Developer</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icons" />
-              <p>lorem ipsum dolor sit amet, consectetur adip</p>
+              <p>Can create creative hero pages.</p>
             </li>
             <li>
               <BiCheck className="service__list-icons" />
-              <p>lorem ipsum dolor sit amet, consectetur adip</p>
+              <p>Have a good knowledge of responsive web Development.</p>
             </li>
             <li>
               <BiCheck className="service__list-icons" />
-              <p>lorem ipsum dolor sit amet, consectetur adip</p>
+              <p>Know about the frameworks like BootStrap, tailwind css, Reactjs, etc.</p>
             </li>
             <li>
               <BiCheck className="service__list-icons" />
-              <p>lorem ipsum dolor sit amet, consectetur adip</p>
+              <p>Maded many frondend web projects and stored in Github.</p>
             </li>
             <li>
               <BiCheck className="service__list-icons" />
