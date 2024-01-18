@@ -1,22 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1217e58a.css",
-    "main.js": "/static/js/main.18dc00f4.js",
+    "main.js": "/static/js/main.0b3b36a2.js",
     "static/media/about me.jpg": "/static/media/about me.1d6a1a06801aead91f4b.jpg",
-    "static/media/cv.pdf": "/static/media/cv.2ff970accdd63f9840db.pdf",
     "static/media/me.png": "/static/media/me.ea0047535148bf0f4d13.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/Nikhil Gorule.pdf": "/static/media/Nikhil Gorule.77c4413ce25176145a41.pdf",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/index.html",
     "main.1217e58a.css.map": "/static/css/main.1217e58a.css.map",
-    "main.18dc00f4.js.map": "/static/js/main.18dc00f4.js.map"
+    "main.0b3b36a2.js.map": "/static/js/main.0b3b36a2.js.map"
   },
   "entrypoints": [
     "static/css/main.1217e58a.css",
-    "static/js/main.18dc00f4.js"
+    "static/js/main.0b3b36a2.js"
   ]
 }

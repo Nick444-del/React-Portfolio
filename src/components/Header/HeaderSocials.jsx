@@ -1,19 +1,17 @@
 import React from "react";
-import { BsLinkedin } from "react-icons/bs";
-import { FaGithub } from "react-icons/fa";
-import { FiDribbble } from "react-icons/fi";
+import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://linked.com" target="_blank">
-        <BsLinkedin />
+      <a href="https://www.linkedin.com/in/nikhil-goruled444/" target="_blank">
+        <FaLinkedin />
       </a>
-      <a href="https://github.com" target="_blank">
+      <a href="https://github.com/Nick444-del" target="_blank">
         <FaGithub />
       </a>
-      <a href="https://dribble.com" target="_blank">
-        <FiDribbble />
+      <a href="https://www.instagram.com/gorulenikhil/" target="_blank">
+        <FaInstagram />
       </a>
     </div>
   );

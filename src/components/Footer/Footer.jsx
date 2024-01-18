@@ -1,7 +1,7 @@
 import React from "react";
 import "./footer.css";
 
-import { FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
 
 
 const Footer = () => {
@@ -19,14 +19,14 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FaInstagram/></a>
-        <a href="https://linkedin.com"><FaLinkedinIn/></a>
+        <a href="https://github.com/Nick444-del"><FaGithub/></a>
+        <a href="https://www.instagram.com/gorulenikhil/"><FaInstagram/></a>
+        <a href="https://www.linkedin.com/in/nikhil-goruled444/"><FaLinkedinIn/></a>
       </div>
 
-      <div className="footer__copyright">
+      {/* <div className="footer__copyright">
         <small>&copy; EGATOR Tutorials. All rights reserved.</small>
-      </div>
+      </div> */}
     </footer>
     );
 };
