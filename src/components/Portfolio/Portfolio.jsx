@@ -1,7 +1,9 @@
 import React from "react";
 import "./portfolio.css";
 import IMG1 from '../../assets/Android Projects.png';
+import IMG2 from '../../assets/Diwali Sales Analysis.png';
 import apk1 from '../../assets/Age to minutes.apk';
+import report from '../../assets/Diwali_Sales_Analysis.ipynb';
 
 const data = [
   {
@@ -10,6 +12,13 @@ const data = [
     title: 'Android Age to Minutes Calculator in kotlin',
     github: 'https://github.com/Nick444-del/Android-age-to-minutes-in-kotlin',
     demo: apk1
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: 'Diwali Sales analysis in Python',
+    github: 'https://github.com/Nick444-del/Diwali-Sales-Analysis',
+    demo: report
   }
 ]
 
