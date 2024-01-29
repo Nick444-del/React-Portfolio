@@ -1,14 +1,15 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from '../../assets/portfolio1.jpg';
+import IMG1 from '../../assets/Android Projects.png';
+import apk1 from '../../assets/Age to minutes.apk';
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashoard & Financial Visualization',
-    github: 'http://github.com',
-    demo: 'https://dribbble.com/alien_pixels'
+    title: 'Android Age to Minutes Calculator in kotlin',
+    github: 'https://github.com/Nick444-del/Android-age-to-minutes-in-kotlin',
+    demo: apk1
   }
 ]
 
