@@ -24,6 +24,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
+    title: 'Netflix Homepage Clone made in HTML and CSS',
     github: 'https://github.com/Nick444-del/Netflix-Clone',
     demo: 'https://endearing-faloodeh-86a43c.netlify.app/'
   }
