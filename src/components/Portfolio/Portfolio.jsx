@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG1 from '../../assets/Android Projects.png';
 import IMG2 from '../../assets/Diwali Sales Analysis.png';
 import IMG3 from '../../assets/Netflix_Homepage_Clone.png';
+import IMG4 from '../../assets/Weather Forecasting website.png';
 import apk1 from '../../assets/Age to minutes.apk';
 import report from '../../assets/Diwali_Sales_Analysis.ipynb';
 
@@ -27,6 +28,13 @@ const data = [
     title: 'Netflix Homepage Clone made in HTML and CSS',
     github: 'https://github.com/Nick444-del/Netflix-Clone',
     demo: 'https://endearing-faloodeh-86a43c.netlify.app/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Weather forcesting website made in HTML, CSS, API, and JavaScript',
+    github: 'https://github.com/Nick444-del/React-Portfolio',
+    demo: 'https://my-website-forcast.netlify.app/'
   }
 ]
 
